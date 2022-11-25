@@ -5,5 +5,6 @@ f = open('result.json',encoding='utf8').read()
 data = json.loads(f)
 
 messages = data['messages']
-print(messages)
-# 
+# Print messages
+for msg in messages:
+    print(msg['id'])
