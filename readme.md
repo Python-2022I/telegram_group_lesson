@@ -49,3 +49,7 @@ type:
 - Count message
 - Count service
 
+## 4. Count users from "result.json" file
+
+- Create empty list
+- Loop through messages
