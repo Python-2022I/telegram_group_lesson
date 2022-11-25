@@ -1,0 +1,146 @@
+{
+ "name": "New",
+ "type": "private_group",
+ "id": 700209719,
+ "messages": [
+  {
+   "id": 211331,
+   "type": "service",
+   "date": "2022-11-25T19:10:29",
+   "date_unixtime": "1669385429",
+   "actor": "🦖",
+   "actor_id": "user1156660166",
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 211332,
+   "type": "service",
+   "date": "2022-11-25T19:11:56",
+   "date_unixtime": "1669385516",
+   "actor": ".",
+   "actor_id": "user5759761889",
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 211335,
+   "type": "message",
+   "date": "2022-11-25T19:12:56",
+   "date_unixtime": "1669385576",
+   "from": ".",
+   "from_id": "user5759761889",
+   "text": "Assalomu Aleykum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Assalomu Aleykum"
+    }
+   ]
+  },
+  {
+   "id": 211336,
+   "type": "message",
+   "date": "2022-11-25T19:13:28",
+   "date_unixtime": "1669385608",
+   "from": "Naxalov",
+   "from_id": "user86775091",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 915,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 211337,
+   "type": "message",
+   "date": "2022-11-25T19:13:51",
+   "date_unixtime": "1669385631",
+   "from": "🦖",
+   "from_id": "user1156660166",
+   "text": "assalomu alaykum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "assalomu alaykum"
+    }
+   ]
+  },
+  {
+   "id": 211338,
+   "type": "message",
+   "date": "2022-11-25T19:13:57",
+   "date_unixtime": "1669385637",
+   "from": "@𝐑𝐮𝐬𝐭𝐚𝐦𝐁𝐞𝐤",
+   "from_id": "user1868330241",
+   "text": "Assalomu alekum",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Assalomu alekum"
+    }
+   ]
+  },
+  {
+   "id": 211339,
+   "type": "message",
+   "date": "2022-11-25T19:14:41",
+   "date_unixtime": "1669385681",
+   "from": "🦖",
+   "from_id": "user1156660166",
+   "text": "25.11.2022",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "25.11.2022"
+    }
+   ]
+  },
+  {
+   "id": 211340,
+   "type": "message",
+   "date": "2022-11-25T19:14:50",
+   "date_unixtime": "1669385690",
+   "from": ".",
+   "from_id": "user5759761889",
+   "text": "Bugun Juma",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Bugun Juma"
+    }
+   ]
+  },
+  {
+   "id": 211341,
+   "type": "message",
+   "date": "2022-11-25T19:15:01",
+   "date_unixtime": "1669385701",
+   "from": "🦖",
+   "from_id": "user1156660166",
+   "text": "Python Online lesson",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Python Online lesson"
+    }
+   ]
+  },
+  {
+   "id": 211342,
+   "type": "service",
+   "date": "2022-11-25T19:15:21",
+   "date_unixtime": "1669385721",
+   "actor": "Jalilov",
+   "actor_id": "user1046157991",
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": "",
+   "text_entities": []
+  }
+ ]
+}
