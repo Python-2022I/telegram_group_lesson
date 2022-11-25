@@ -8,7 +8,7 @@ messages = data['messages']
 count = 0 
 # Print messages
 for msg in messages:
-    if msg['type']=='message':
-        count+=1
+    print(msg.get('from'))
+    
 
 print(count)
