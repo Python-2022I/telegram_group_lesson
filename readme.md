@@ -1,7 +1,5 @@
 # Telegram group data 
 
-## 1. Get telegram group name from "result.json" file
-
 Structure of "result.json" file:
 ```json
 {
@@ -26,4 +24,16 @@ Structure of "result.json" file:
     
 ```
 
-       
+## 1. Get telegram group name from "result.json" file
+
+- Open "result.json" file
+- Convert "result.json" file to python dictionary
+- Get "name" value from dictionary
+
+
+## 2. Get messages from "result.json" file
+
+- Get "messages" value from dictionary and assign to "messages" variable
+- Find length of "messages" variable.
+- Print each message id, from messages list.
+- Print each message type, from messages list.
