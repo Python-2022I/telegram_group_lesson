@@ -11,18 +11,24 @@ Structure of "result.json" file:
             "id": "message id",
             "from": "user name",
             "text": "message text",
-            "date": "message date"
+            "date": "message date",
+            "type": "message type"
         },
         {
             "id": "message id",
             "from": "user name",
             "text": "message text",
-            "date": "message date"
+            "date": "message date",
+            "type": "message type"
         }
     ]
 }
     
 ```
+
+type:
+    - message
+    - service
 
 ## 1. Get telegram group name from "result.json" file
 
@@ -37,3 +43,9 @@ Structure of "result.json" file:
 - Find length of "messages" variable.
 - Print each message id, from messages list.
 - Print each message type, from messages list.
+
+## 3. Count messages by type from "result.json" file
+
+- Count message
+- Count service
+
