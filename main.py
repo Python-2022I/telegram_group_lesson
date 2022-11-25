@@ -5,6 +5,10 @@ f = open('result.json',encoding='utf8').read()
 data = json.loads(f)
 
 messages = data['messages']
+count = 0 
 # Print messages
 for msg in messages:
-    print(msg['id'])
+    if msg['type']=='message':
+        count+=1
+
+print(count)
